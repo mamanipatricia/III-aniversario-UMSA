@@ -11,3 +11,4 @@ Preprocesamiento de texto con:
 - Seaborn
 - LDA supervisado y no supervisado
 
+Run on Colab or Jupyter
